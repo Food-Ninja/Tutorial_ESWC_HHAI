@@ -1,0 +1,289 @@
+"Name","IRI","Type","Recipes-Title","Recipes-Title [%]","Recipes-Steps","Recipes-Steps [%]","WikiHow-Title","WikiHow-Title [%]","WikiHow-TitleDescription","WikiHow-TitleDescription [%]","WikiHow-Method","WikiHow-Method [%]","WikiHow-StepHeadline","WikiHow-StepHeadline [%]","WikiHow-StepDescription","WikiHow-StepDescription [%]"
+"pepper","http://purl.obolibrary.org/obo/FOODON_00003520","Fruit",159174,0.15458,181668,0.01687,8,0.00064,39,0.00311,0,0.00000,421,0.00476,1992,0.02463
+"olive","http://purl.obolibrary.org/obo/FOODON_03317509","Fruit",115457,0.11212,149795,0.01391,9,0.00072,47,0.00375,0,0.00000,617,0.00698,2092,0.02587
+"lemon","http://purl.obolibrary.org/obo/FOODON_03301441","Fruit",111186,0.10798,137495,0.01277,37,0.00295,112,0.00893,0,0.00000,866,0.00980,2310,0.02856
+"tomato","http://purl.obolibrary.org/obo/FOODON_03309927","Fruit",65920,0.06402,69302,0.00644,17,0.00135,62,0.00494,0,0.00000,239,0.00270,607,0.00750
+"orange","http://purl.obolibrary.org/obo/FOODON_03309832","Fruit",38532,0.03742,48280,0.00448,16,0.00127,63,0.00502,0,0.00000,265,0.00300,871,0.01077
+"lime","http://purl.obolibrary.org/obo/FOODON_00003661","Fruit",37326,0.03625,46503,0.00432,5,0.00040,34,0.00271,0,0.00000,268,0.00303,715,0.00884
+"apple","http://purl.obolibrary.org/obo/FOODON_03301710","Fruit",30101,0.02923,27791,0.00258,39,0.00311,61,0.00486,0,0.00000,286,0.00324,810,0.01001
+"bean","http://purl.obolibrary.org/obo/FOODON_03301403","Vegetable",24254,0.02355,16994,0.00158,10,0.00080,26,0.00207,0,0.00000,77,0.00087,310,0.00383
+"coconut","http://purl.obolibrary.org/obo/FOODON_00003449","Fruit",23622,0.02294,31437,0.00292,33,0.00263,98,0.00781,0,0.00000,479,0.00542,1131,0.01398
+"banana","http://purl.obolibrary.org/obo/FOODON_00004183","Fruit",16927,0.01644,11788,0.00109,44,0.00350,65,0.00518,0,0.00000,248,0.00281,462,0.00571
+"almond","http://purl.obolibrary.org/obo/FOODON_00003523","Fruit",16897,0.01641,16686,0.00155,16,0.00127,40,0.00319,0,0.00000,159,0.00180,510,0.00631
+"pineapple","http://purl.obolibrary.org/obo/FOODON_00003459","Fruit",15178,0.01474,19978,0.00186,11,0.00088,30,0.00239,0,0.00000,156,0.00176,303,0.00375
+"pumpkin","http://purl.obolibrary.org/obo/FOODON_00003486","Fruit",14190,0.01378,15947,0.00148,21,0.00167,33,0.00263,0,0.00000,181,0.00205,386,0.00477
+"cherry","http://purl.obolibrary.org/obo/FOODON_03301240","Fruit",12595,0.01223,10407,0.00097,7,0.00056,17,0.00135,0,0.00000,56,0.00063,222,0.00274
+"strawberry","http://purl.obolibrary.org/obo/FOODON_00003443","Fruit",12198,0.01185,7497,0.00070,31,0.00247,40,0.00319,0,0.00000,137,0.00155,345,0.00427
+"squash","http://purl.obolibrary.org/obo/FOODON_00003539","Fruit",10502,0.01020,21200,0.00197,10,0.00080,51,0.00406,0,0.00000,390,0.00441,638,0.00789
+"avocado","http://purl.obolibrary.org/obo/FOODON_03305236","Fruit",9954,0.00967,10753,0.00100,13,0.00104,34,0.00271,0,0.00000,183,0.00207,423,0.00523
+"cranberry","http://purl.obolibrary.org/obo/FOODON_00003657","Fruit",9907,0.00962,6136,0.00057,10,0.00080,18,0.00143,0,0.00000,48,0.00054,127,0.00157
+"cucumber","http://purl.obolibrary.org/obo/FOODON_00003415","Fruit",8651,0.00840,9111,0.00085,6,0.00048,21,0.00167,0,0.00000,91,0.00103,191,0.00236
+"asparagus","http://purl.obolibrary.org/obo/FOODON_03301774","Vegetable",8557,0.00831,16153,0.00150,3,0.00024,15,0.00120,0,0.00000,120,0.00136,229,0.00283
+"bell pepper","http://purl.obolibrary.org/obo/FOODON_00003546","Fruit",8556,0.00831,8845,0.00082,0,0.00000,0,0.00000,0,0.00000,15,0.00017,56,0.00069
+"pecan","http://purl.obolibrary.org/obo/FOODON_00003699","Fruit",8498,0.00825,4104,0.00038,5,0.00040,8,0.00064,0,0.00000,10,0.00011,39,0.00048
+"raspberry","http://purl.obolibrary.org/obo/FOODON_00003433","Fruit",7636,0.00742,5538,0.00051,15,0.00119,19,0.00151,0,0.00000,40,0.00045,111,0.00137
+"blueberry","http://purl.obolibrary.org/obo/FOODON_00003541","Fruit",7476,0.00726,2617,0.00024,10,0.00080,14,0.00112,0,0.00000,43,0.00049,79,0.00098
+"peach","http://purl.obolibrary.org/obo/FOODON_03301719","Fruit",6825,0.00663,5496,0.00051,10,0.00080,15,0.00120,0,0.00000,45,0.00051,138,0.00171
+"eggplant","http://purl.obolibrary.org/obo/FOODON_00003618","Fruit",6591,0.00640,15905,0.00148,3,0.00024,14,0.00112,0,0.00000,92,0.00104,156,0.00193
+"walnut","http://purl.obolibrary.org/obo/FOODON_03301364","Fruit",6512,0.00632,3323,0.00031,2,0.00016,5,0.00040,0,0.00000,19,0.00021,59,0.00073
+"mango","http://purl.obolibrary.org/obo/FOODON_00003538","Fruit",5999,0.00583,5681,0.00053,13,0.00104,22,0.00175,0,0.00000,97,0.00110,197,0.00244
+"berry","http://purl.obolibrary.org/obo/FOODON_00003521","Fruit",5388,0.00523,2549,0.00024,3,0.00024,19,0.00151,0,0.00000,24,0.00027,82,0.00101
+"apricot","http://purl.obolibrary.org/obo/FOODON_00003476","Fruit",5220,0.00507,4187,0.00039,6,0.00048,5,0.00040,0,0.00000,26,0.00029,47,0.00058
+"pear","http://purl.obolibrary.org/obo/FOODON_00003041","Fruit",4681,0.00455,4486,0.00042,3,0.00024,6,0.00048,0,0.00000,41,0.00046,87,0.00108
+"raisin","http://purl.obolibrary.org/obo/FOODON_03301283","Fruit",3908,0.00380,1314,0.00012,3,0.00024,5,0.00040,0,0.00000,8,0.00009,20,0.00025
+"hot pepper","http://purl.obolibrary.org/obo/FOODON_00003545","Fruit",3697,0.00359,3644,0.00034,0,0.00000,1,0.00008,0,0.00000,3,0.00003,12,0.00015
+"cayenne pepper","http://purl.obolibrary.org/obo/FOODON_00003798","Fruit",3220,0.00313,3292,0.00031,1,0.00008,2,0.00016,0,0.00000,16,0.00018,116,0.00143
+"grape","http://purl.obolibrary.org/obo/FOODON_00003417","Fruit",2997,0.00291,3113,0.00029,3,0.00024,7,0.00056,0,0.00000,33,0.00037,138,0.00171
+"scallion","http://purl.obolibrary.org/obo/FOODON_00003697","Vegetable",2824,0.00274,3046,0.00028,0,0.00000,1,0.00008,0,0.00000,5,0.00006,19,0.00023
+"plum","http://purl.obolibrary.org/obo/FOODON_03301580","Fruit",2736,0.00266,2265,0.00021,1,0.00008,5,0.00040,0,0.00000,25,0.00028,80,0.00099
+"melon","http://purl.obolibrary.org/obo/FOODON_00003597","Fruit",2699,0.00262,3205,0.00030,2,0.00016,13,0.00104,0,0.00000,86,0.00097,209,0.00258
+"date","http://purl.obolibrary.org/obo/FOODON_03301246","Fruit",2494,0.00242,1758,0.00016,1,0.00008,15,0.00120,0,0.00000,74,0.00084,454,0.00561
+"butternut squash","http://purl.obolibrary.org/obo/FOODON_00002981","Fruit",2350,0.00228,1077,0.00010,8,0.00064,18,0.00143,0,0.00000,21,0.00024,94,0.00116
+"pomegranate","http://purl.obolibrary.org/obo/FOODON_00003679","Fruit",2320,0.00225,2928,0.00027,4,0.00032,13,0.00104,0,0.00000,57,0.00064,96,0.00119
+"blackberry","http://purl.obolibrary.org/obo/FOODON_00003487","Fruit",2123,0.00206,1038,0.00010,5,0.00040,3,0.00024,0,0.00000,21,0.00024,43,0.00053
+"grapefruit","http://purl.obolibrary.org/obo/FOODON_03301702","Fruit",2065,0.00201,2973,0.00028,4,0.00032,9,0.00072,0,0.00000,52,0.00059,140,0.00173
+"watermelon","http://purl.obolibrary.org/obo/FOODON_00003673","Fruit",1834,0.00178,2257,0.00021,11,0.00088,19,0.00151,0,0.00000,128,0.00145,186,0.00230
+"radish","http://purl.obolibrary.org/obo/FOODON_03304656","Vegetable",1615,0.00157,1715,0.00016,1,0.00008,3,0.00024,0,0.00000,15,0.00017,37,0.00046
+"fig","http://purl.obolibrary.org/obo/FOODON_00003266","Fruit",1615,0.00157,1358,0.00013,2,0.00016,3,0.00024,0,0.00000,2,0.00002,29,0.00036
+"okra","http://purl.obolibrary.org/obo/FOODON_03301828","Fruit",1397,0.00136,2266,0.00021,2,0.00016,3,0.00024,0,0.00000,33,0.00037,48,0.00059
+"salad greens","http://purl.obolibrary.org/obo/FOODON_03310789","Vegetable",1133,0.00110,1163,0.00011,0,0.00000,1,0.00008,0,0.00000,6,0.00007,20,0.00025
+"daikon","http://purl.obolibrary.org/obo/FOODON_00003076","Vegetable",1075,0.00104,1841,0.00017,0,0.00000,0,0.00000,0,0.00000,1,0.00001,8,0.00010
+"endive","http://purl.obolibrary.org/obo/FOODON_03302987","Vegetable",1024,0.00099,1287,0.00012,0,0.00000,0,0.00000,0,0.00000,4,0.00005,3,0.00004
+"tomatillo","http://purl.obolibrary.org/obo/FOODON_00003745","Fruit",955,0.00093,781,0.00007,0,0.00000,4,0.00032,0,0.00000,10,0.00011,29,0.00036
+"acorn","http://purl.obolibrary.org/obo/FOODON_00003591","Fruit",949,0.00092,479,0.00004,5,0.00040,8,0.00064,0,0.00000,16,0.00018,28,0.00035
+"chestnut","http://purl.obolibrary.org/obo/FOODON_00003563","Fruit",932,0.00091,830,0.00008,0,0.00000,0,0.00000,0,0.00000,5,0.00006,27,0.00033
+"papaya","http://purl.obolibrary.org/obo/FOODON_00003540","Fruit",885,0.00086,935,0.00009,2,0.00016,7,0.00056,0,0.00000,42,0.00048,66,0.00082
+"chili pepper","http://purl.obolibrary.org/obo/FOODON_00003744","Fruit",847,0.00082,887,0.00008,0,0.00000,1,0.00008,0,0.00000,5,0.00006,24,0.00030
+"cantaloupe","http://purl.obolibrary.org/obo/FOODON_00003577","Fruit",731,0.00071,767,0.00007,1,0.00008,3,0.00024,0,0.00000,10,0.00011,46,0.00057
+"jalapeno pepper","http://purl.obolibrary.org/obo/FOODON_00003494","Fruit",679,0.00066,647,0.00006,0,0.00000,1,0.00008,0,0.00000,0,0.00000,3,0.00004
+"tangerine","http://purl.obolibrary.org/obo/FOODON_00003488","Fruit",653,0.00063,812,0.00008,1,0.00008,0,0.00000,0,0.00000,2,0.00002,4,0.00005
+"mandarin orange","http://purl.obolibrary.org/obo/FOODON_00003555","Fruit",631,0.00061,330,0.00003,0,0.00000,0,0.00000,0,0.00000,1,0.00001,3,0.00004
+"prune","http://purl.obolibrary.org/obo/FOODON_03301721","Fruit",621,0.00060,516,0.00005,5,0.00040,4,0.00032,0,0.00000,22,0.00025,31,0.00038
+"plantain","http://purl.obolibrary.org/obo/FOODON_00003784","Fruit",585,0.00057,847,0.00008,2,0.00016,1,0.00008,0,0.00000,25,0.00028,68,0.00084
+"acorn squash","http://purl.obolibrary.org/obo/FOODON_00003599","Fruit",562,0.00055,286,0.00003,0,0.00000,5,0.00040,0,0.00000,14,0.00016,15,0.00019
+"spaghetti squash","http://purl.obolibrary.org/obo/FOODON_03000077","Fruit",536,0.00052,448,0.00004,1,0.00008,9,0.00072,0,0.00000,20,0.00023,54,0.00067
+"summer squash","http://purl.obolibrary.org/obo/FOODON_00003708","Fruit",489,0.00047,161,0.00001,0,0.00000,4,0.00032,0,0.00000,10,0.00011,25,0.00031
+"nectarine","http://purl.obolibrary.org/obo/FOODON_00003585","Fruit",475,0.00046,302,0.00003,1,0.00008,2,0.00016,0,0.00000,8,0.00009,15,0.00019
+"green tomato","http://purl.obolibrary.org/obo/FOODON_03309573","Fruit",434,0.00042,104,0.00001,0,0.00000,0,0.00000,0,0.00000,0,0.00000,1,0.00001
+"blood orange","http://purl.obolibrary.org/obo/FOODON_00004198","Fruit",422,0.00041,363,0.00003,0,0.00000,1,0.00008,0,0.00000,3,0.00003,6,0.00007
+"pimiento","http://purl.obolibrary.org/obo/FOODON_00003484","Fruit",422,0.00041,340,0.00003,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"passion fruit","http://purl.obolibrary.org/obo/FOODON_00003675","Fruit",404,0.00039,473,0.00004,1,0.00008,3,0.00024,0,0.00000,3,0.00003,3,0.00004
+"boysenberry","http://purl.obolibrary.org/obo/FOODON_00003556","Fruit",398,0.00039,210,0.00002,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"black olive","http://purl.obolibrary.org/obo/FOODON_00003025","Fruit",397,0.00039,178,0.00002,0,0.00000,0,0.00000,0,0.00000,1,0.00001,5,0.00006
+"guava","http://purl.obolibrary.org/obo/FOODON_00003622","Fruit",373,0.00036,467,0.00004,2,0.00016,3,0.00024,0,0.00000,12,0.00014,23,0.00028
+"yuzu","http://purl.obolibrary.org/obo/FOODON_00003732","Fruit",370,0.00036,522,0.00005,1,0.00008,2,0.00016,0,0.00000,11,0.00012,14,0.00017
+"persimmon","http://purl.obolibrary.org/obo/FOODON_00003723","Fruit",359,0.00035,339,0.00003,0,0.00000,3,0.00024,0,0.00000,17,0.00019,34,0.00042
+"tropical fruit","http://purl.obolibrary.org/obo/FOODON_00003567","Fruit",354,0.00034,104,0.00001,0,0.00000,7,0.00056,0,0.00000,2,0.00002,4,0.00005
+"winter squash","http://purl.obolibrary.org/obo/FOODON_00003946","Fruit",289,0.00028,75,0.00001,0,0.00000,4,0.00032,0,0.00000,4,0.00005,16,0.00020
+"fennel bulb","http://purl.obolibrary.org/obo/FOODON_03000120","Fruit",281,0.00027,294,0.00003,0,0.00000,1,0.00008,0,0.00000,5,0.00006,13,0.00016
+"root vegetable","http://purl.obolibrary.org/obo/FOODON_03301561","Vegetable",264,0.00026,54,0.00001,0,0.00000,9,0.00072,0,0.00000,0,0.00000,4,0.00005
+"serrano pepper","http://purl.obolibrary.org/obo/FOODON_03000128","Fruit",251,0.00024,260,0.00002,0,0.00000,0,0.00000,0,0.00000,1,0.00001,5,0.00006
+"quince","http://purl.obolibrary.org/obo/FOODON_00003724","Fruit",244,0.00024,408,0.00004,1,0.00008,1,0.00008,0,0.00000,7,0.00008,14,0.00017
+"green olive","http://purl.obolibrary.org/obo/FOODON_03301269","Fruit",231,0.00022,79,0.00001,0,0.00000,0,0.00000,0,0.00000,1,0.00001,3,0.00004
+"heirloom tomato","http://purl.obolibrary.org/obo/FOODON_00002928","Fruit",222,0.00022,22,0.00000,0,0.00000,0,0.00000,0,0.00000,1,0.00001,0,0.00000
+"clementine","http://purl.obolibrary.org/obo/FOODON_03303079","Fruit",209,0.00020,259,0.00002,0,0.00000,0,0.00000,0,0.00000,0,0.00000,4,0.00005
+"sour cherry","http://purl.obolibrary.org/obo/FOODON_00004218","Fruit",197,0.00019,54,0.00001,0,0.00000,0,0.00000,0,0.00000,0,0.00000,1,0.00001
+"red currant","http://purl.obolibrary.org/obo/FOODON_00003766","Fruit",191,0.00019,147,0.00001,0,0.00000,1,0.00008,0,0.00000,0,0.00000,3,0.00004
+"mustard greens","http://purl.obolibrary.org/obo/FOODON_03301579","Vegetable",189,0.00018,172,0.00002,0,0.00000,1,0.00008,0,0.00000,5,0.00006,7,0.00009
+"chayote","http://purl.obolibrary.org/obo/FOODON_00003653","Fruit",189,0.00018,230,0.00002,1,0.00008,0,0.00000,0,0.00000,1,0.00001,1,0.00001
+"fennel seed","http://purl.obolibrary.org/obo/FOODON_00004266","Fruit",180,0.00017,163,0.00002,0,0.00000,0,0.00000,0,0.00000,2,0.00002,2,0.00002
+"kidney bean","http://purl.obolibrary.org/obo/FOODON_03310014","Vegetable",177,0.00017,27,0.00000,0,0.00000,2,0.00016,0,0.00000,1,0.00001,1,0.00001
+"lychee","http://purl.obolibrary.org/obo/FOODON_00004228","Fruit",174,0.00017,163,0.00002,2,0.00016,3,0.00024,0,0.00000,15,0.00017,22,0.00027
+"kumquat","http://purl.obolibrary.org/obo/FOODON_03306597","Fruit",160,0.00016,132,0.00001,0,0.00000,3,0.00024,0,0.00000,3,0.00003,6,0.00007
+"lima bean","http://purl.obolibrary.org/obo/FOODON_00002816","Vegetable",158,0.00015,23,0.00000,0,0.00000,0,0.00000,0,0.00000,1,0.00001,1,0.00001
+"black walnut","http://purl.obolibrary.org/obo/FOODON_00003611","Fruit",141,0.00014,21,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,1,0.00001
+"gooseberry","http://purl.obolibrary.org/obo/FOODON_00003543","Fruit",136,0.00013,45,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,1,0.00001
+"citron","http://purl.obolibrary.org/obo/FOODON_03306596","Fruit",133,0.00013,126,0.00001,0,0.00000,0,0.00000,0,0.00000,1,0.00001,1,0.00001
+"kiwifruit","http://purl.obolibrary.org/obo/FOODON_03303398","Fruit",125,0.00012,124,0.00001,1,0.00008,3,0.00024,0,0.00000,19,0.00021,16,0.00020
+"lingonberry","http://purl.obolibrary.org/obo/FOODON_00003542","Fruit",122,0.00012,107,0.00001,0,0.00000,0,0.00000,0,0.00000,0,0.00000,1,0.00001
+"pink grapefruit","http://purl.obolibrary.org/obo/FOODON_03311296","Fruit",119,0.00012,48,0.00000,0,0.00000,0,0.00000,0,0.00000,1,0.00001,2,0.00002
+"asparagus spear","http://purl.obolibrary.org/obo/FOODON_03311349","Vegetable",116,0.00011,119,0.00001,0,0.00000,0,0.00000,0,0.00000,1,0.00001,5,0.00006
+"asian pear","http://purl.obolibrary.org/obo/FOODON_00003607","Fruit",112,0.00011,49,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,7,0.00009
+"yellow bell pepper","http://purl.obolibrary.org/obo/FOODON_00003012","Fruit",107,0.00010,102,0.00001,0,0.00000,0,0.00000,0,0.00000,1,0.00001,4,0.00005
+"white grape","http://purl.obolibrary.org/obo/FOODON_00003777","Fruit",100,0.00010,97,0.00001,0,0.00000,0,0.00000,0,0.00000,3,0.00003,18,0.00022
+"black currant","http://purl.obolibrary.org/obo/FOODON_00003606","Fruit",90,0.00009,44,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"huckleberry","http://purl.obolibrary.org/obo/FOODON_00003544","Fruit",84,0.00008,26,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"yellow tomato","http://purl.obolibrary.org/obo/FOODON_03000142","Fruit",82,0.00008,29,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"plum tomato","http://purl.obolibrary.org/obo/FOODON_00003756","Fruit",81,0.00008,55,0.00001,0,0.00000,0,0.00000,0,0.00000,0,0.00000,1,0.00001
+"red raspberry","http://purl.obolibrary.org/obo/FOODON_00003729","Fruit",80,0.00008,37,0.00000,0,0.00000,1,0.00008,0,0.00000,0,0.00000,3,0.00004
+"cashew nut","http://purl.obolibrary.org/obo/FOODON_00003615","Fruit",80,0.00008,33,0.00000,0,0.00000,1,0.00008,0,0.00000,1,0.00001,2,0.00002
+"sweet cherry","http://purl.obolibrary.org/obo/FOODON_03311457","Fruit",80,0.00008,17,0.00000,1,0.00008,1,0.00008,0,0.00000,0,0.00000,2,0.00002
+"star fruit","http://purl.obolibrary.org/obo/FOODON_00003101","Fruit",76,0.00007,80,0.00001,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"citrus fruit","http://purl.obolibrary.org/obo/FOODON_03301337","Fruit",71,0.00007,55,0.00001,0,0.00000,9,0.00072,0,0.00000,2,0.00002,26,0.00032
+"adzuki bean","http://purl.obolibrary.org/obo/FOODON_00002758","Vegetable",69,0.00007,43,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,2,0.00002
+"granny smith apple","http://purl.obolibrary.org/obo/FOODON_00002853","Fruit",69,0.00007,42,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"honeydew melon","http://purl.obolibrary.org/obo/FOODON_00003598","Fruit",67,0.00007,52,0.00000,0,0.00000,1,0.00008,0,0.00000,4,0.00005,5,0.00006
+"cabbage head","http://purl.obolibrary.org/obo/FOODON_03301326","Vegetable",65,0.00006,69,0.00001,0,0.00000,0,0.00000,0,0.00000,3,0.00003,3,0.00004
+"banana pepper","http://purl.obolibrary.org/obo/FOODON_03000126","Fruit",63,0.00006,47,0.00000,0,0.00000,1,0.00008,0,0.00000,0,0.00000,1,0.00001
+"black raspberry","http://purl.obolibrary.org/obo/FOODON_00003490","Fruit",62,0.00006,19,0.00000,0,0.00000,1,0.00008,0,0.00000,0,0.00000,0,0.00000
+"grape tomato","http://purl.obolibrary.org/obo/FOODON_00003299","Fruit",61,0.00006,37,0.00000,0,0.00000,0,0.00000,0,0.00000,1,0.00001,1,0.00001
+"red grape","http://purl.obolibrary.org/obo/FOODON_00003778","Fruit",57,0.00006,27,0.00000,0,0.00000,0,0.00000,0,0.00000,1,0.00001,1,0.00001
+"elderberry","http://purl.obolibrary.org/obo/FOODON_00003678","Fruit",49,0.00005,14,0.00000,2,0.00016,2,0.00016,0,0.00000,3,0.00003,7,0.00009
+"pink peppercorn","http://purl.obolibrary.org/obo/FOODON_00003810","Fruit",48,0.00005,18,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"red grapefruit","http://purl.obolibrary.org/obo/FOODON_03305561","Fruit",42,0.00004,16,0.00000,0,0.00000,0,0.00000,0,0.00000,1,0.00001,1,0.00001
+"mulberry","http://purl.obolibrary.org/obo/FOODON_00003676","Fruit",40,0.00004,11,0.00000,1,0.00008,0,0.00000,0,0.00000,0,0.00000,1,0.00001
+"zucchini squash","http://purl.obolibrary.org/obo/FOODON_03310943","Fruit",37,0.00004,16,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,1,0.00001
+"broad bean","http://purl.obolibrary.org/obo/FOODON_00002818","Vegetable",35,0.00003,11,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"jackfruit","http://purl.obolibrary.org/obo/FOODON_00003457","Fruit",31,0.00003,44,0.00000,0,0.00000,2,0.00016,0,0.00000,15,0.00017,21,0.00026
+"pawpaw","http://purl.obolibrary.org/obo/FOODON_00003710","Fruit",31,0.00003,28,0.00000,0,0.00000,1,0.00008,0,0.00000,7,0.00008,10,0.00012
+"breadfruit","http://purl.obolibrary.org/obo/FOODON_00003628","Fruit",30,0.00003,45,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"rose hip","http://purl.obolibrary.org/obo/FOODON_00003746","Fruit",29,0.00003,14,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"navel orange","http://purl.obolibrary.org/obo/FOODON_00003579","Fruit",25,0.00002,25,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,1,0.00001
+"chokecherry","http://purl.obolibrary.org/obo/FOODON_00004222","Fruit",25,0.00002,10,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"tangelo","http://purl.obolibrary.org/obo/FOODON_00003731","Fruit",24,0.00002,33,0.00000,0,0.00000,0,0.00000,0,0.00000,1,0.00001,6,0.00007
+"orange bell pepper","http://purl.obolibrary.org/obo/FOODON_00003016","Fruit",24,0.00002,24,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,1,0.00001
+"crabapple","http://purl.obolibrary.org/obo/FOODON_00003651","Fruit",24,0.00002,3,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"seville orange","http://purl.obolibrary.org/obo/FOODON_03306372","Fruit",22,0.00002,13,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"crookneck squash","http://purl.obolibrary.org/obo/FOODON_03000081","Fruit",21,0.00002,15,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"pistachio nut","http://purl.obolibrary.org/obo/FOODON_00003691","Fruit",20,0.00002,5,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,2,0.00002
+"pattypan squash","http://purl.obolibrary.org/obo/FOODON_00003707","Fruit",20,0.00002,7,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"loquat","http://purl.obolibrary.org/obo/FOODON_00003672","Fruit",19,0.00002,19,0.00000,0,0.00000,0,0.00000,0,0.00000,2,0.00002,6,0.00007
+"fuji apple","http://purl.obolibrary.org/obo/FOODON_00002862","Fruit",19,0.00002,7,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"endive leaf","http://purl.obolibrary.org/obo/FOODON_03302987","Vegetable",18,0.00002,19,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"loganberry","http://purl.obolibrary.org/obo/FOODON_00003479","Fruit",18,0.00002,5,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"lettuce head","http://purl.obolibrary.org/obo/FOODON_03301613","Vegetable",16,0.00002,18,0.00000,0,0.00000,0,0.00000,0,0.00000,3,0.00003,2,0.00002
+"heart of palm","http://purl.obolibrary.org/obo/FOODON_03306832","Fruit",16,0.00002,14,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,1,0.00001
+"cauliflower floret","http://purl.obolibrary.org/obo/FOODON_03302732","Vegetable",16,0.00002,17,0.00000,0,0.00000,0,0.00000,0,0.00000,1,0.00001,0,0.00000
+"hickory nut","http://purl.obolibrary.org/obo/FOODON_00003089","Fruit",16,0.00002,3,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"yellow summer squash","http://purl.obolibrary.org/obo/FOODON_00003709","Fruit",14,0.00001,4,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,1,0.00001
+"hubbard squash","http://purl.obolibrary.org/obo/FOODON_03000075","Fruit",14,0.00001,7,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"dewberry","http://purl.obolibrary.org/obo/FOODON_00003557","Fruit",14,0.00001,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"tamarillo","http://purl.obolibrary.org/obo/FOODON_00003730","Fruit",12,0.00001,3,0.00000,0,0.00000,1,0.00008,0,0.00000,1,0.00001,10,0.00012
+"morello cherry","http://purl.obolibrary.org/obo/FOODON_00004215","Fruit",10,0.00001,5,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,2,0.00002
+"durian","http://purl.obolibrary.org/obo/FOODON_00003665","Fruit",10,0.00001,17,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"golden delicious apple","http://purl.obolibrary.org/obo/FOODON_00004202","Fruit",10,0.00001,7,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"sweet red bell pepper","http://purl.obolibrary.org/obo/FOODON_00003485","Fruit",10,0.00001,7,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"arugula greens","http://purl.obolibrary.org/obo/FOODON_00002426","Vegetable",9,0.00001,9,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"black grape","http://purl.obolibrary.org/obo/FOODON_00003610","Fruit",9,0.00001,2,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"okra pod","http://purl.obolibrary.org/obo/FOODON_00003681","Fruit",8,0.00001,10,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,1,0.00001
+"black radish","http://purl.obolibrary.org/obo/FOODON_00003075","Vegetable",8,0.00001,4,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"bosc pear","http://purl.obolibrary.org/obo/FOODON_00002509","Fruit",8,0.00001,3,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"anjou pear","http://purl.obolibrary.org/obo/FOODON_00004230","Fruit",8,0.00001,2,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"custard apple","http://purl.obolibrary.org/obo/FOODON_00003660","Fruit",7,0.00001,6,0.00000,0,0.00000,1,0.00008,0,0.00000,2,0.00002,4,0.00005
+"longan","http://purl.obolibrary.org/obo/FOODON_00003677","Fruit",7,0.00001,2,0.00000,0,0.00000,1,0.00008,0,0.00000,0,0.00000,2,0.00002
+"broccoli floret","http://purl.obolibrary.org/obo/FOODON_03301713","Vegetable",7,0.00001,7,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"cloudberry","http://purl.obolibrary.org/obo/FOODON_00003480","Fruit",7,0.00001,5,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"honeycrisp apple","http://purl.obolibrary.org/obo/FOODON_00003519","Fruit",7,0.00001,1,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"pink apple","http://purl.obolibrary.org/obo/FOODON_00004186","Fruit",7,0.00001,1,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"red plum","http://purl.obolibrary.org/obo/FOODON_03310147","Fruit",7,0.00001,1,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"gala apple","http://purl.obolibrary.org/obo/FOODON_00003348","Fruit",6,0.00001,6,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,3,0.00004
+"rambutan","http://purl.obolibrary.org/obo/FOODON_00003720","Fruit",6,0.00001,5,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"field pea","http://purl.obolibrary.org/obo/FOODON_03306817","Vegetable",6,0.00001,4,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"yellow plum","http://purl.obolibrary.org/obo/FOODON_03311303","Fruit",6,0.00001,3,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"english walnut","http://purl.obolibrary.org/obo/FOODON_00004148","Fruit",6,0.00001,2,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"orange tomato","http://purl.obolibrary.org/obo/FOODON_03000144","Fruit",6,0.00001,1,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"youngberry","http://purl.obolibrary.org/obo/FOODON_00003566","Fruit",6,0.00001,1,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"soursop","http://purl.obolibrary.org/obo/FOODON_00002937","Fruit",4,0.00000,3,0.00000,1,0.00008,2,0.00016,0,0.00000,6,0.00007,17,0.00021
+"sweet green pepper","http://purl.obolibrary.org/obo/FOODON_03306726","Fruit",4,0.00000,4,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"horned melon","http://purl.obolibrary.org/obo/FOODON_00003658","Fruit",4,0.00000,3,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"d'anjou pear","http://purl.obolibrary.org/obo/FOODON_00004230","Fruit",4,0.00000,1,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"strawberry guava","http://purl.obolibrary.org/obo/FOODON_00004224","Fruit",4,0.00000,1,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"purple plum","http://purl.obolibrary.org/obo/FOODON_03311302","Fruit",4,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"mangosteen","http://purl.obolibrary.org/obo/FOODON_00003568","Fruit",3,0.00000,2,0.00000,0,0.00000,0,0.00000,0,0.00000,1,0.00001,8,0.00010
+"white grapefruit","http://purl.obolibrary.org/obo/FOODON_03311297","Fruit",3,0.00000,1,0.00000,0,0.00000,1,0.00008,0,0.00000,0,0.00000,1,0.00001
+"red banana","http://purl.obolibrary.org/obo/FOODON_00002794","Fruit",3,0.00000,3,0.00000,0,0.00000,1,0.00008,0,0.00000,0,0.00000,0,0.00000
+"pear tomato","http://purl.obolibrary.org/obo/FOODON_00003313","Fruit",3,0.00000,2,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"blue plum","http://purl.obolibrary.org/obo/FOODON_00003535","Fruit",3,0.00000,1,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"salmonberry","http://purl.obolibrary.org/obo/FOODON_00003689","Fruit",2,0.00000,6,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"mizuna leaf","http://purl.obolibrary.org/obo/FOODON_00003641","Vegetable",2,0.00000,2,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"wood apple","http://purl.obolibrary.org/obo/FOODON_03311596","Fruit",2,0.00000,2,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"pomelo fruit","http://purl.obolibrary.org/obo/FOODON_00003027","Fruit",2,0.00000,1,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"japanese chestnut","http://purl.obolibrary.org/obo/FOODON_00003654","Fruit",2,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"olallieberry","http://purl.obolibrary.org/obo/FOODON_00003749","Fruit",2,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"white peppercorn","http://purl.obolibrary.org/obo/FOODON_00003762","Fruit",2,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"bayberry","http://purl.obolibrary.org/obo/FOODON_00003609","Fruit",1,0.00000,2,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"endive head","http://purl.obolibrary.org/obo/FOODON_00004236","Fruit",1,0.00000,1,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"hungarian wax pepper","http://purl.obolibrary.org/obo/FOODON_03000130","Fruit",1,0.00000,1,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"muskmelon","http://purl.obolibrary.org/obo/FOODON_00003596","Fruit",1,0.00000,1,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"red delicious apple","http://purl.obolibrary.org/obo/FOODON_00004201","Fruit",1,0.00000,1,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"ridge gourd","http://purl.obolibrary.org/obo/FOODON_00003713","Fruit",1,0.00000,1,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"sweet yellow bell pepper","http://purl.obolibrary.org/obo/FOODON_00003548","Fruit",1,0.00000,1,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"williams pear","http://purl.obolibrary.org/obo/FOODON_00003575","Fruit",1,0.00000,1,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"banana passionfruit","http://purl.obolibrary.org/obo/FOODON_00003608","Fruit",1,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"casaba melon","http://purl.obolibrary.org/obo/FOODON_00004210","Fruit",1,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"french endive","http://purl.obolibrary.org/obo/FOODON_03303387","Vegetable",1,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"italian prune plum","http://purl.obolibrary.org/obo/FOODON_00003813","Fruit",1,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"japanese persimmon","http://purl.obolibrary.org/obo/FOODON_00004240","Fruit",1,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"miniature tomato","http://purl.obolibrary.org/obo/FOODON_03311800","Fruit",1,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"muscadine grape","http://purl.obolibrary.org/obo/FOODON_03304854","Fruit",1,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"naranjilla","http://purl.obolibrary.org/obo/FOODON_00003688","Fruit",1,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"star apple","http://purl.obolibrary.org/obo/FOODON_00003569","Fruit",1,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"saba banana","http://purl.obolibrary.org/obo/FOODON_00004180","Fruit",0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,1,0.00001,1,0.00001
+"acerola","http://purl.obolibrary.org/obo/FOODON_00003593","Fruit",0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"akee","http://purl.obolibrary.org/obo/FOODON_00003489","Fruit",0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"alaska blueberry","http://purl.obolibrary.org/obo/FOODON_00004209","Fruit",0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"almond kernel","http://purl.obolibrary.org/obo/FOODON_03311337","Fruit",0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"amarelle cherry","http://purl.obolibrary.org/obo/FOODON_00004214","Fruit",0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"arabica coffee bean","http://purl.obolibrary.org/obo/FOODON_00003399","Fruit",0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"baby zucchini squash","http://purl.obolibrary.org/obo/FOODON_03000098","Fruit",0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"beechnut","http://purl.obolibrary.org/obo/FOODON_00003627","Fruit",0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"bitter gourd pod","http://purl.obolibrary.org/obo/FOODON_03000108","Fruit",0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"bramble berry","http://purl.obolibrary.org/obo/FOODON_00003775","Fruit",0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"california valencia orange","http://purl.obolibrary.org/obo/FOODON_03309926","Fruit",0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"cavendish banana","http://purl.obolibrary.org/obo/FOODON_03316257","Fruit",0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"cherimoya fruit","http://purl.obolibrary.org/obo/FOODON_00003616","Fruit",0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"chinese chestnut","http://purl.obolibrary.org/obo/FOODON_00004260","Fruit",0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"clingstone peach","http://purl.obolibrary.org/obo/FOODON_00003481","Fruit",0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"common hazelnut","http://purl.obolibrary.org/obo/FOODON_00003418","Fruit",0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"common pear","http://purl.obolibrary.org/obo/FOODON_00003576","Fruit",0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"cowpea pod","http://purl.obolibrary.org/obo/FOODON_03000101","Fruit",0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"cupuaçu fruit","http://purl.obolibrary.org/obo/FOODON_00003617","Fruit",0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"european chestnut","http://purl.obolibrary.org/obo/FOODON_00003655","Fruit",0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"european plum","http://purl.obolibrary.org/obo/FOODON_00004149","Fruit",0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"filbert nut","http://purl.obolibrary.org/obo/FOODON_00003669","Fruit",0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"freestone peach","http://purl.obolibrary.org/obo/FOODON_00003482","Fruit",0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"fuzzy kiwifruit","http://purl.obolibrary.org/obo/FOODON_00003578","Fruit",0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"golden kiwifruit","http://purl.obolibrary.org/obo/FOODON_00004133","Fruit",0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"golden oriental grapefruit","http://purl.obolibrary.org/obo/FOODON_03306687","Fruit",0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"green anjou pear","http://purl.obolibrary.org/obo/FOODON_00004233","Fruit",0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"green bean pod","http://purl.obolibrary.org/obo/FOODON_03305806","Fruit",0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"green cabbage head","http://purl.obolibrary.org/obo/FOODON_03310228","Vegetable",0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"green d'anjou pear","http://purl.obolibrary.org/obo/FOODON_00004233","Fruit",0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"java apple","http://purl.obolibrary.org/obo/FOODON_00003626","Fruit",0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"jujube fruit","http://purl.obolibrary.org/obo/FOODON_00003652","Fruit",0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"kola nut pod","http://purl.obolibrary.org/obo/FOODON_00003668","Fruit",0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"malus sieversii apple","http://purl.obolibrary.org/obo/FOODON_00004185","Fruit",0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"mamey apple","http://purl.obolibrary.org/obo/FOODON_00004200","Fruit",0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"manchurian pear","http://purl.obolibrary.org/obo/FOODON_00004152","Fruit",0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"md2 super sweet pineapple","http://purl.obolibrary.org/obo/FOODON_00004238","Fruit",0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"miracle berry","http://purl.obolibrary.org/obo/FOODON_00003671","Fruit",0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"mizuna greens bunch","http://purl.obolibrary.org/obo/FOODON_00002427","Vegetable",0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"musa balbisiana banana","http://purl.obolibrary.org/obo/FOODON_00004181","Fruit",0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"natal plum","http://purl.obolibrary.org/obo/FOODON_00003680","Fruit",0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"oheloberry","http://purl.obolibrary.org/obo/FOODON_00002872","Fruit",0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"otaheite gooseberry","http://purl.obolibrary.org/obo/FOODON_00003721","Fruit",0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"pili nut","http://purl.obolibrary.org/obo/FOODON_00003722","Fruit",0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"prickly pear pad","http://purl.obolibrary.org/obo/FOODON_00004238","Fruit",0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"pyracantha berry","http://purl.obolibrary.org/obo/FOODON_00003696","Fruit",0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"red abyssinian banana","http://purl.obolibrary.org/obo/FOODON_00002795","Fruit",0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"red abyssinian banana corm","http://purl.obolibrary.org/obo/FOODON_00003771","Fruit",0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"red anjou pear","http://purl.obolibrary.org/obo/FOODON_00004232","Fruit",0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"red cabbage head","http://purl.obolibrary.org/obo/FOODON_03304685","Vegetable",0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"red d'anjou pear","http://purl.obolibrary.org/obo/FOODON_00004232","Fruit",0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"red pear tomato","http://purl.obolibrary.org/obo/FOODON_00003831","Fruit",0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"ribier grape","http://purl.obolibrary.org/obo/FOODON_00003776","Fruit",0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"river tamarind pod","http://purl.obolibrary.org/obo/FOODON_00003902","Fruit",0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"romaine lettuce head","http://purl.obolibrary.org/obo/FOODON_03306127","Vegetable",0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"rowal fruit","http://purl.obolibrary.org/obo/FOODON_00004246","Fruit",0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"sacred pear","http://purl.obolibrary.org/obo/FOODON_00003687","Fruit",0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"sair date","http://purl.obolibrary.org/obo/FOODON_00003764","Fruit",0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"sapodilla fruit","http://purl.obolibrary.org/obo/FOODON_00004250","Fruit",0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"savoy cabbage head","http://purl.obolibrary.org/obo/FOODON_00003031","Vegetable",0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"seeded raisin","http://purl.obolibrary.org/obo/FOODON_03315829","Fruit",0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"seedless golden raisin","http://purl.obolibrary.org/obo/FOODON_00004264","Fruit",0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"seedless raisin","http://purl.obolibrary.org/obo/FOODON_03311488","Fruit",0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"seedless white grape","http://purl.obolibrary.org/obo/FOODON_00003772","Fruit",0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"shea fruit","http://purl.obolibrary.org/obo/FOODON_00003692","Fruit",0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"sponge gourd","http://purl.obolibrary.org/obo/FOODON_03000109","Fruit",0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"squashberry","http://purl.obolibrary.org/obo/FOODON_00003719","Fruit",0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"straightneck squash","http://purl.obolibrary.org/obo/FOODON_03000079","Fruit",0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"sultana raisin","http://purl.obolibrary.org/obo/FOODON_03305819","Fruit",0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"sumac fruit","http://purl.obolibrary.org/obo/FOODON_00003733","Fruit",0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"swamp cabbage head","http://purl.obolibrary.org/obo/FOODON_03000060","Vegetable",0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"sweet green bell pepper","http://purl.obolibrary.org/obo/FOODON_00003547","Fruit",0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"sweet orange bell pepper","http://purl.obolibrary.org/obo/FOODON_00003550","Fruit",0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"tango apple","http://purl.obolibrary.org/obo/FOODON_00002973","Fruit",0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"tinda","http://purl.obolibrary.org/obo/FOODON_03000161","Fruit",0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"white raisin","http://purl.obolibrary.org/obo/FOODON_03311062","Fruit",0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"winged bean","http://purl.obolibrary.org/obo/FOODON_00002810","Vegetable",0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000
+"zucca melon","http://purl.obolibrary.org/obo/FOODON_00003780","Fruit",0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000,0,0.00000

@@ -1,4 +1,4 @@
-# Contextualizing and Executing Robot Manipulation Plans Using Web Knowledge
+# Creating and Accessing Knowledge Graphs for Action Parameterisation
 
 ## Abstract
 
@@ -13,5 +13,5 @@ The tutorial consists of two parts:
 1) Extraction of Relevant Action and Object Knowledge from the Web presented by [Jan-Philipp Töberg](https://www.uni-bielefeld.de/fakultaeten/technische-fakultaet/arbeitsgruppen/semantic-computing/team/jan-philipp-toeberg/)
 2) Accessing Web Knowledge & Knowledge Graphs for Action Parameterisation presented by [Dr. Michaela Kümpel](https://ias.uni-bremen.de/team/michaela_kuempel)
 
-The tutorial is held at the [Extended Semantic Web Conference 2024](https://2024.eswc-conferences.org/) and the [International Conference on Hybrid Human-Artificial Intelligence](https://hhai-conference.org/2024/).
+The tutorial is held at the [Extended Semantic Web Conference 2024](https://2024.eswc-conferences.org/), the [International Conference on Hybrid Human-Artificial Intelligence 2024](https://hhai-conference.org/2024/) and the [24th International Conference on Knowledge Engineering and Knowledge Management](https://event.cwi.nl/ekaw2024/index.html).
 More information on the topics can be found on [our website](https://food-ninja.github.io/WebKat-MealRobot/).
